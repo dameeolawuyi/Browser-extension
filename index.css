@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width:400px;
+}
+
+/*
+
+Style our app according to the provided design!
+
+green color -> #5f9341
+
+*/
+
+
+input {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom:10px;
+    padding-top :10px;
+    border:2px, solid greenyellow;
+    box-sizing: border-box;
+}
+
+button {
+    background-color:greenyellow;
+    color:white;
+    padding top:10px;
+    padding-buttom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    border:none;
+    font-weight:bold;
+    margin-buttom : 4px;
+}
+ul {
+    list-style:none;
+    padding-left: 0;
+    margin-top:20px;
+}
+
+li{
+    padding-top:5px;
+
+}
+    
